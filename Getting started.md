@@ -3,10 +3,13 @@
 You can use this Yet Another Mail Merge(YAMM) add-on to create a personalized emails for each receiver automatically.
 In this guide you will learn how to create emails with the receiver's name.
 
-[Step 1. Install an add-on](#step-1-install-an-add-on)
-[Step 2. Create an email template](#step-2-create-an-email-template)
-[Step 3. Configurate a list recipients](#step-3-configurate-a-list-recipients)
-[Step 4. Send emails](#step-4-send-emails)
+Step 1. [Install an add-on](#step-1-install-an-add-on)
+
+Step 2. [Create an email template](#step-2-create-an-email-template)
+
+Step 3. [Configurate a list recipients](#step-3-configurate-a-list-recipients)
+
+Step 4. [Send emails](#step-4-send-emails)
 
 ## Step 1. Install an add-on
 
