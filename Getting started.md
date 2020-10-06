@@ -41,9 +41,11 @@ Gmail will save the email in the **Drafts** folder automatically.
 
 Create a [new spreadsheet](https://docs.google.com/spreadsheets/u/0/?tgif=c) for Google Sheets.
 On row 1, type the name of each column for each item of information.
-We want to add the receiver's first names and email addresses. We'll write these headers as follows:
+We want to add the receiver's first names and email addresses. 
 
-image
+We'll write these headers as follows:
+
+![](/images/yamm-step3.png)
 
 Fill your spreadsheet with all the information you need, row by row.
 
