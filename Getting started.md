@@ -3,15 +3,15 @@
 You can use this Yet Another Mail Merge(YAMM) add-on to create personalized emails for each receiver automatically.
 In this guide you will learn how to create emails with the receiver's name.
 
-* Before start. [Install an add-on](#before-start-install-an-add-on)
+* Before you start. [Install an add-on](#before-you-start-install-an-add-on)
 
 * Step 1. [Create an email template](#step-1-create-an-email-template)
 
-* Step 2. [Configurate a list recipients](#step-2-configurate-a-list-recipients)
+* Step 2. [Configure a list recipients](#step-2-сonfigure-a-list-recipients)
 
 * Step 3. [Send emails](#step-3-send-emails)
 
-## Before start. Install an add-on
+## Before you start. Install an add-on
 
 YAMM is an add-on for Google Sheets. Make sure that you have installed the add-on.
 
@@ -38,7 +38,7 @@ Team YAMM
 ```
 Gmail will save the email in the **Drafts** folder automatically. 
 
-## Step 2. Configurate a list recipients
+## Step 2. Configure a list recipients
 
 Create a [new spreadsheet](https://docs.google.com/spreadsheets/u/0/?tgif=c) for Google Sheets.
 
@@ -59,7 +59,7 @@ Fill in the fields:
 * **Sender Name** — enter your name, users will see this name in the from field in the received email.
 * **Email Template** — select your template from the drop-down list.
 
-Click **Receive a test email** if you want send a test email to yourself. Now that you have tested that everything is fine, click **Send emails**.
+Click **Receive a test email** if you want to send a test email to yourself. Now that you have tested that everything is fine, click **Send emails**.
 
 **What next**:
 
