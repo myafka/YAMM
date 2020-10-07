@@ -3,13 +3,13 @@
 You can use this Yet Another Mail Merge(YAMM) add-on to create personalized emails for each receiver automatically.
 In this guide you will learn how to create emails with the receiver's name.
 
-Before start. [Install an add-on](#before-start-install-an add-on)
+* Before start. [Install an add-on](#before-start-install-an-add-on)
 
-Step 1. [Create an email template](#step-1-create-an-email-template)
+* Step 1. [Create an email template](#step-1-create-an-email-template)
 
-Step 2. [Configurate a list recipients](#step-2-configurate-a-list-recipients)
+* Step 2. [Configurate a list recipients](#step-2-configurate-a-list-recipients)
 
-Step 3. [Send emails](#step-3-send-emails)
+* Step 3. [Send emails](#step-3-send-emails)
 
 ## Before start. Install an add-on
 
@@ -42,7 +42,7 @@ Gmail will save the email in the **Drafts** folder automatically.
 
 Create a [new spreadsheet](https://docs.google.com/spreadsheets/u/0/?tgif=c) for Google Sheets.
 
-We need to automatically add two parameters: the names of recipients and their email addresses. In line 1, enter a name for the column for each parameter. The name of the column with recipient names must match the marker from the email template — First Name. The name of the column with email addresses — Email.
+We need to automatically add two parameters: the names of recipients and their email addresses. In line 1, enter a name for the column for each parameter. The name of the column with recipient names must match the marker from the email template — **First Name**. The name of the column with email addresses — **Email**.
 
 Fill your spreadsheet with all the information. Example:
 
@@ -54,13 +54,12 @@ You can also import your contacts from [Google Contacts](https://support.yet-ano
 
 In your spreadsheet select **Add-ons** > **Yet Another Mail Merge(YAMM)** > **Start Mail Merge**.
 
-Enter your name in the **Sender Name** field. Users will see this name in the from field in the received email. 
+Fill in the fields:
 
-Select your template from the drop-down list **Email Template**.
+* **Sender Name** — enter your name, users will see this name in the from field in the received email.
+* **Email Template** — select your template from the drop-down list.
 
-Test email to yourself. Click **Receive a test email** and after click the blue banner. The test email will open in your Gmail.
-
-Once you're ready to send your mail, click **Send emails**.
+Click **Receive a test email** if you want send a test email to yourself. Now that you have tested that everything is fine, click **Send emails**.
 
 **What next**:
 
