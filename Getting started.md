@@ -20,7 +20,7 @@ For more information about the install an add-on read the [article](https://supp
 
 ## Step 1. Create an email template
 
-Open [Gmail](https://mail.google.com/) and click *+Compose*. 
+Open [Gmail](https://mail.google.com/) and click **+Compose**. 
 
 Compose the email template. We want to create an email in which the recipient's name will be inserted automatically. Therefore, replace a name with a marker in the format `{{First Name}}` in the text of the email. 
 
