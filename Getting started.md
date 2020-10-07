@@ -22,7 +22,7 @@ For more information about the install an add-on read the [article](https://supp
 
 Open [Gmail](https://mail.google.com/) and click *+Compose*. 
 
-Compose the email. We want to create an email in which the recipient's name will be inserted automatically. Therefore, replace a name with a marker in the format `{{First Name}}` in the text of the email. 
+Compose the email template. We want to create an email in which the recipient's name will be inserted automatically. Therefore, replace a name with a marker in the format `{{First Name}}` in the text of the email. 
 
 Example template:
 
@@ -36,6 +36,7 @@ Best,
 Team YAMM
 
 ```
+
 Gmail will save the email in the **Drafts** folder automatically. 
 
 ## Step 2. Configure a list recipients
