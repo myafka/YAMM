@@ -1,28 +1,28 @@
 # Getting Started
 
-You can use this Yet Another Mail Merge(YAMM) add-on to create personalized emails for each receiver automatically.
-In this guide you will learn how to create emails with the receiver's name.
+You can use this Yet Another Mail Merge(YAMM) add-on to create personalized emails for each recipient automatically.
+In this guide you will learn how to create emails with the recipient's name.
 
-* Before you start. [Install an add-on](#before-you-start-install-an-add-on)
+* [Before you start](#before-you-start)
 
-* Step 1. [Create an email template](#step-1-create-an-email-template)
+* [Step 1. Create an email template](#step-1-create-an-email-template)
 
-* Step 2. [Configure a list recipients](#step-2-сonfigure-a-list-recipients)
+* [Step 2. Configure a list recipients](#step-2-сonfigure-a-list-recipients)
 
-* Step 3. [Send emails](#step-3-send-emails)
+* [Step 3. Send emails](#step-3-send-emails)
 
-## Before you start. Install an add-on
+## Before you start
 
 YAMM is an add-on for Google Sheets. Make sure that you have installed the add-on.
 
 
-For more information about the install an add-on read [help](https://support.yet-another-mail-merge.com/hc/en-us/sections/202481589-Install-YAMM) or watch the [video-tutorial](https://youtu.be/o2Jh1ABd7XM).
+For more information about the install an add-on read the [article](https://support.yet-another-mail-merge.com/hc/en-us/sections/202481589-Install-YAMM) or watch the [video-tutorial](https://youtu.be/o2Jh1ABd7XM).
 
 ## Step 1. Create an email template
 
-Open [Gmail](https://mail.google.com/) and click *+Compose*. Write the email that you want.
+Open [Gmail](https://mail.google.com/) and click *+Compose*. 
 
-We want to create an email in which the receiver's name will be inserted automatically. Therefore, replace a name with a marker in the format `{{First Name}}` in the text of the email. 
+Compose the email. We want to create an email in which the recipient's name will be inserted automatically. Therefore, replace a name with a marker in the format `{{First Name}}` in the text of the email. 
 
 Example template:
 
