@@ -61,7 +61,7 @@ Fill in the fields:
 
 Click **Receive a test email** if you want to send a test email to yourself. Now that you have tested that everything is fine, click **Send emails**.
 
-**What next**:
+### What next:
 
 * More about [personalization emails](https://support.yet-another-mail-merge.com/hc/en-us/sections/202544725-Personalize-Your-Email)
 * How to [analyze your tracking report emails](https://support.yet-another-mail-merge.com/hc/en-us/articles/115000786545-Analyze-your-tracking-report-emails-to-do-better-campaigns)
