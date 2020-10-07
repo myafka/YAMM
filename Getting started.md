@@ -1,7 +1,7 @@
 # Getting Started
 
 You can use this Yet Another Mail Merge(YAMM) add-on to create personalized emails for each recipient automatically.
-In this guide you will learn how to create emails with the recipient's name.
+In this guide, you will learn how to create emails with different names for the entire list of recipients.
 
 * [Before you start](#before-you-start)
 
