@@ -16,7 +16,7 @@ In this guide you will learn how to create emails with the recipient's name.
 YAMM is an add-on for Google Sheets. Make sure that you have installed the add-on.
 
 
-For more information about the install an add-on read the [article](https://support.yet-another-mail-merge.com/hc/en-us/sections/202481589-Install-YAMM) or watch the [video-tutorial](https://youtu.be/o2Jh1ABd7XM).
+For more information about the install an add-on read the [article](https://support.yet-another-mail-merge.com/hc/en-us/sections/202481589-Install-YAMM) or watch the [video tutorial](https://youtu.be/o2Jh1ABd7XM).
 
 ## Step 1. Create an email template
 
@@ -57,7 +57,7 @@ In your spreadsheet select **Add-ons** > **Yet Another Mail Merge(YAMM)** > **St
 
 Fill in the fields:
 
-* **Sender Name** — enter your name, users will see this name in the from field in the received email.
+* **Sender Name** — enter your name, users will see this name in the **From** field in the received email.
 * **Email Template** — select your template from the drop-down list.
 
 Click **Receive a test email** if you want to send a test email to yourself. Now that you have tested that everything is fine, click **Send emails**.
