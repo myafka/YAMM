@@ -7,7 +7,7 @@ In this guide you will learn how to create emails with the recipient's name.
 
 * [Step 1. Create an email template](#step-1-create-an-email-template)
 
-* [Step 2. Configure a list recipients](#step-2-сonfigure-a-list-recipients)
+* [Step 2. Configure a list recipients](#step-2-configure-a-list-recipients)
 
 * [Step 3. Send emails](#step-3-send-emails)
 
